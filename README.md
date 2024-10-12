@@ -1,3 +1,3 @@
 # Cs_trigger
 
-color triggerbot para cs
+color triggerbot para cs em c#
